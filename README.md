@@ -3,7 +3,9 @@
 ## Run Test
 
 Before Running the tests you must attach the Java Agent to the JVM
+
 Here is a screenshot on where to do this in eclipse along with the command
+
 The jacocoagent.jar file is located in the jacoco folder
 
 ![image](Images/JVM.png)
